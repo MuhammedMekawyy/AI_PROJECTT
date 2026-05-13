@@ -116,7 +116,7 @@ python tests/test_game.py
 
 ## Demo Video
 
-> *[Link to demo video — upload to YouTube/Drive and paste URL here]*
+> *[https://drive.google.com/drive/folders/1EzMgCIHwXWhwmSWn55jlO1p-qErmc1KM?usp=drive_link]*
 
 ---
 
